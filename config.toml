@@ -1,0 +1,63 @@
+baseURL = "https://galwaytribe.github.io"
+languageCode = "en-us"
+title = "Tribe Ultimate"
+themesDir = "themes"
+theme = "hugo-hero-theme"
+publishDir = "docs"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.92.0"
+    
+[params]
+  google_analytics_id=""
+
+  [params.logo]
+    mobile = "images/logo-mobile.svg"
+    mobile_height = "36px"
+    mobile_width = "36px"
+    desktop = "images/logo.svg"
+    desktop_height = "29px"
+    desktop_width = "217px"
+    alt = "Tribe"
+
+  [params.homepage_meta_tags]
+    meta_description = "Tribe. Galway, Ireland's Ultimate Club."
+    meta_og_title = "Tribe Ultimate"
+    meta_og_type = "website"
+    meta_og_url = "https://galwaytribe.github.io"
+    meta_og_image = "https://raw.githubusercontent.com/GalwayTribe/GalwayTribe.github.io/master/static/images/CitySticker.png"
+    meta_og_description = "Tribe is an ultimate team based in Galway, Ireland. The club is open to all and competes in Mixed Open and Women's divisions."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@galwaytribe"
+    meta_twitter_creator = "@galwaytribe"
+
+[[menu.main]]
+	name = "Events"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Work"
+    url = "/work/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "History"
+    url = "/history/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
