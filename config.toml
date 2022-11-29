@@ -1,4 +1,4 @@
-baseURL = "https://galwaytribe.github.io"
+baseURL = "https://galwaytribe.github.io/"
 languageCode = "en-us"
 title = "Tribe Ultimate"
 themesDir = "themes"
