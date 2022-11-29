@@ -1,9 +1,9 @@
 ---
-title: 'We Help Business Grow'
+title: 'Join Now!'
 weight: 1
 background: 'images/hookersplash.png'
-button: 'Our Work'
-buttonLink: 'work'
+button: 'Find out more and sign up'
+buttonLink: 'contact'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+Joining Tribe is free and the club is open to everyone. We cater to all ages, genders and experience levels. We run trainings, pickup games and social events throughout the year. Whether you're a complete beginner with endless questions, an old stager with dodgy knees, or an elite player with international experience there is a space in our club for you. 

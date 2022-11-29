@@ -1,15 +1,16 @@
 ---
-title: 'Mergers'
-date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
+title: 'Accounting'
+date: 2018-11-18T12:33:46+10:00
+icon: 'services/service-icon-1.png'
+draft: true
 featured: true
-draft: false
-heroHeading: 'Mergers & Acquisitions'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
-heroBackground: 'services/service2.jpg'
+weight: 1
+heroHeading: 'Accounting'
+heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
+heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
+Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 

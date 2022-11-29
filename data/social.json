@@ -1,12 +1,18 @@
 [
     {
         "name": "Github",
-        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
+        "link": "https://github.com/GalwayTribe",
         "image": "social/github.svg"
     },
     {
         "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
+        "link": "https://twitter.com/galwaytribe",
+        "image": "social/twitter.svg"
+    },
+    {
+        "name": "Instagram",
+        "link": "https://instagram.com/galwaytribe",
         "image": "social/twitter.svg"
     }
 ]
+
