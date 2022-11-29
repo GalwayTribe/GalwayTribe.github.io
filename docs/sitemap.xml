@@ -2,19 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://galwaytribe.github.io/ultimate/accounting/</loc>
+    <loc>https://galwaytribe.github.io/events/fall-plaza/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>https://galwaytribe.github.io/work/fall-plaza/</loc>
+    <loc>https://galwaytribe.github.io/events/modern-hospital/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>https://galwaytribe.github.io/work/modern-hospital/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url><url>
-    <loc>https://galwaytribe.github.io/ultimate/tax-filing/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url><url>
-    <loc>https://galwaytribe.github.io/work/cargo-terminal/</loc>
+    <loc>https://galwaytribe.github.io/events/cargo-terminal/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
     <loc>https://galwaytribe.github.io/about/</loc>
@@ -35,9 +29,6 @@
     <loc>https://galwaytribe.github.io/ultimate/spirit/</loc>
     <lastmod>2018-11-28T15:14:54+10:00</lastmod>
   </url><url>
-    <loc>https://galwaytribe.github.io/ultimate/business-advisory/</loc>
-    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
-  </url><url>
     <loc>https://galwaytribe.github.io/contact/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
@@ -47,7 +38,7 @@
     <loc>https://galwaytribe.github.io/ultimate/</loc>
     <lastmod>2018-02-10T11:52:18+07:00</lastmod>
   </url><url>
-    <loc>https://galwaytribe.github.io/work/</loc>
+    <loc>https://galwaytribe.github.io/events/</loc>
     <lastmod>2018-02-10T11:52:18+07:00</lastmod>
   </url><url>
     <loc>https://galwaytribe.github.io/404/</loc>

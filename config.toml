@@ -34,29 +34,34 @@ publishDir = "docs"
     meta_twitter_creator = "@galwaytribe"
 
 [[menu.main]]
-	name = "Events"
-	url = "/services/"
-    weight = 1
+	name = "Home"
+	url = "/"
+    weight = 2
 
 [[menu.main]]
-    name = "Work"
-    url = "/work/"
+	name = "Ultimate"
+	url = "/ultimate/"
     weight = 2
+
+[[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = 4
 
 [[menu.main]]
     name = "About"
     url = "/about/"
     weight = 3
 
-[[menu.main]]
-    name = "History"
-    url = "/history/"
-    weight = 3
+#[[menu.main]]
+#    name = "History"
+#    url = "/history/"
+#    weight = 3
 
 [[menu.main]]
-    name = "Contact"
+    name = "Sign Up & Contact"
     url = "/contact/"
-    weight = 4
+    weight = 5
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"

@@ -1,8 +1,13 @@
 [
     {
-        "name": "Github",
-        "link": "https://github.com/GalwayTribe",
-        "image": "social/github.svg"
+        "name": "Instagram",
+        "link": "https://instagram.com/galwaytribe",
+        "image": "social/instagram.svg"
+    },
+    {
+        "name": "Facebook",
+        "link": "https://facebook.com/galwaytribe",
+        "image": "social/facebook.svg" 
     },
     {
         "name": "Twitter",
@@ -10,9 +15,19 @@
         "image": "social/twitter.svg"
     },
     {
-        "name": "Instagram",
-        "link": "https://instagram.com/galwaytribe",
-        "image": "social/twitter.svg"
+        "name": "Youtube",
+        "link": "https://youtube.com/@tribegalway4288",
+        "image": "social/youtube.svg"
+    },
+    {
+        "name": "Slack",
+        "link": "https://tribeultimate.slack.com/",
+        "image": "social/slack.svg" 
+    },
+    {
+        "name": "Email",
+        "link": "mailto:galwaytribe@gmail.com",
+        "image": "social/email.svg" 
     }
 ]
 
