@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-12">
         <div class="sub-footer-inner">
-          <ul>
+          <!--<ul>
             {{ if .Site.Data.contact.phone }}
             <li><strong>Phone: </strong>{{ .Site.Data.contact.phone }}</li>
             {{ end }}
@@ -11,8 +11,12 @@
             <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.contact.email }}">
                 {{ .Site.Data.contact.email }}</a></li>
               {{ end }}
+          </ul>-->
+          <ul class="footer-menu">
+            <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+            <li><a href="{{ .Site.BaseURL }}contact">Contact</a></li>
+            <li class="copyright">© {{ now.Format "2006" }} {{.Site.Title}}</li>
           </ul>
-          
         </div>
       </div>
     </div>

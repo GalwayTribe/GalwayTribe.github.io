@@ -134,13 +134,13 @@ sup {
   top: -.5em; }
 
 a {
-  color: #6f0166;
+  color: #d402c3;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #a20194;
-    text-decoration: underline; }
+    color: #fd0ce9;
+    text-decoration: bold; }
 
 a:not([href]):not([tabindex]) {
   color: inherit;
@@ -5609,7 +5609,7 @@ ol {
       .main-menu > ul > li > a {
         padding: 10px 14px 10px 14px;
         display: inline-block;
-        font-weight: regular;
+        font-weight: 900;
         text-transform: uppercase;
         text-decoration: none;
         color: #ffffff; }
@@ -6081,17 +6081,20 @@ html {
 .bg-secondary {
   background-color: #3c97c9; }
 
-.page-services-single .content > p:first-of-type {
-  font-size: 1.2rem;
-  line-height: 1.5;
-  margin-bottom: 40px;
-  font-weight: 300; }
-  @media (min-width: 768px) {
-    .page-services-single .content > p:first-of-type {
-      font-size: 1.4rem;
-      line-height: 1.4;
-      margin-bottom: 40px;
-      font-weight: 300; } }
+.page-services-single .content > p {
+  color: white; }
+  .page-services-single .content > p:first-of-type {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 40px;
+    font-weight: 300; }
+    @media (min-width: 768px) {
+      .page-services-single .content > p:first-of-type {
+        color: white;
+        font-size: 1.4rem;
+        line-height: 1.4;
+        margin-bottom: 40px;
+        font-weight: 300; } }
 .service-summary {
   display: flex;
   align-items: flex-start; }
@@ -6107,7 +6110,7 @@ html {
       font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
       font-size: 1.5rem; }
     .service-summary .service-content p {
-      color: #666;
+      color: white;
       font-size: 0.9rem;
       width: 90%; }
 

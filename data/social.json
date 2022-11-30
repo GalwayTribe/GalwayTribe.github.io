@@ -28,6 +28,11 @@
         "name": "Email",
         "link": "mailto:galwaytribe@gmail.com",
         "image": "social/email.svg" 
-    }
+    },
+    {
+        "name": "Google Form",
+        "link": "https://forms.gle/kCMLUgkp3QKbEZbaA",
+        "image": "social/google.svg" 
+    } 
 ]
 

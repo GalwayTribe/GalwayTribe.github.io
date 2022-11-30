@@ -1,6 +1,6 @@
 baseURL = "https://galwaytribe.github.io/"
 languageCode = "en-us"
-title = "Tribe Ultimate"
+title = "Tribe"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 publishDir = "docs"
@@ -24,7 +24,7 @@ publishDir = "docs"
 
   [params.homepage_meta_tags]
     meta_description = "Tribe. Galway, Ireland's Ultimate Club."
-    meta_og_title = "Tribe Ultimate"
+    meta_og_title = "Tribe"
     meta_og_type = "website"
     meta_og_url = "https://galwaytribe.github.io"
     meta_og_image = "https://raw.githubusercontent.com/GalwayTribe/GalwayTribe.github.io/master/static/images/CitySticker.png"
@@ -53,13 +53,13 @@ publishDir = "docs"
     url = "/about/"
     weight = 3
 
-#[[menu.main]]
-#    name = "History"
-#    url = "/history/"
-#    weight = 3
+[[menu.main]]
+    name = "History"
+    url = "/history/"
+    weight = 3
 
 [[menu.main]]
-    name = "Sign Up & Contact"
+    name = "Contact"
     url = "/contact/"
     weight = 5
 

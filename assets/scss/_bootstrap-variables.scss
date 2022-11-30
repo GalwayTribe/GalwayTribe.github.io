@@ -21,10 +21,10 @@ $primary: #6f0166;
 $secondary: #3c97c9;
 
 // Links
-$link-color: $primary;
+$link-color: lighten($primary, 20%);
 $link-decoration: none;
-$link-hover-color: lighten($primary, 10%);
-$link-hover-decoration: underline;
+$link-hover-color: lighten($primary, 30%);
+$link-hover-decoration: bold;
 
 // Fonts
 $font-family-base: 'Open Sans', 'Helvetica Neue', Arial, sans-serif,
