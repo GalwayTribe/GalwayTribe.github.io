@@ -6003,7 +6003,7 @@ ul.social {
   background-repeat: no-repeat;
   background-blend-mode: overlay;
   background-color: #6f0166;
-  height: 50%;
+  height: 100%;
   position: relative;
   padding-top: 60px; }
   .hero-image .container {

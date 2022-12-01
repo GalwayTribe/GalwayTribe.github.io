@@ -11,11 +11,6 @@ images: ['https://source.unsplash.com/random/400x600/?nature',
 'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+The first ultimate team in Galway was the Naional University of Ireland, Galway team. Back in 2005 Thomas O’Rourke founded the NUIG Panteras, named after Las Panteras de Xalapa, an Ultimate team from Mexico from whom Thomas learned the sport. Slowly the team grew with support from players like Eoin Wallace, Luke Watson & Paddy Costello. The team trained on ‘the President’s Lawn’ a lovely patch of grass at the heart of the college campus. 
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+The university, now known as University of Galway has a thriving ultimate team that competes in Mixed, Women's and Open tournaments. Students from the other university in Galway, Atlantic Technical University, may also join the University of Galway team.  
