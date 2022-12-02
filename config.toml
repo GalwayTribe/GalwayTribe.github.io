@@ -44,7 +44,7 @@ publishDir = "docs"
     weight = 2
 
 [[menu.main]]
-    name = "Events"
+    name = "News & Events"
     url = "/events/"
     weight = 4
 
