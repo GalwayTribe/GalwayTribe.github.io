@@ -12,7 +12,8 @@ images: ['history/eucwomen.jpg','history/zoemedal.jpg','history/barryireland.jpg
 
 The Galway Ultimate community is proud to have been represented by a large number of Galway-based players on various Irish national teams over the years. Male and female-matching Galway-based players have played at Junior, U23/U24 and Senior levels.
 
-## First players to represent Ireland at different levels:
+**FIRST REPRESENTATIVES AT EACH LEVEL**
+
 **Junior**
 - FMP: Eimear O'Reilly EYUC 2011
 - MMP: Barry O Gorman EYUC 2017
@@ -26,7 +27,8 @@ The Galway Ultimate community is proud to have been represented by a large numbe
 - MMP: Liam Grant WCBU 2011 Open 
 
 
-## International Medals
+**INTERNATIONAL MEDALS**
+
 Galway-based players have been part of some of Ireland's most successful teams. The following players have won medals while representing Ireland on the international stage. 
 - Liam Grant: Silver at ECBU 2015 in the Mixed division.
 - Barry O'Gorman: Silver at EYUC 2017 in the Junior Open division.

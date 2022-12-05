@@ -1,5 +1,6 @@
 .page-work-single {
   h1.title {
+    color: rgb(255, 255, 255);
     font-size: 3rem;
     font-family: $font-family-heading;
     color: $primary;
@@ -12,6 +13,7 @@
   }
   .content {
     > p {
+      color: rgb(255, 255, 255);
       &:first-of-type {
         font-size: 24px;
         line-height: 32px;

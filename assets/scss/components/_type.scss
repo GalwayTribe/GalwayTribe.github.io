@@ -8,7 +8,7 @@ ol {
   }
 }
 p {
-  color: rgb(78, 78, 78);
+  color: rgb(255, 255, 255);
   font-family: $font-family-base;
 }
 h1 {
@@ -16,7 +16,7 @@ h1 {
   font-family: $font-family-heading;
   line-height: 1.2;
   font-weight: $font-weight-light;
-  color: #333333;
+  color: #ffffff;
   @include media-breakpoint-up(md) {
     font-size: 30px;
     line-height: 1.2;
@@ -28,7 +28,7 @@ h2 {
   font-family: $font-family-heading;
   line-height: 1.4;
   font-weight: 400;
-  color: #333333;
+  color: #ffffff;
   @include media-breakpoint-up(md) {
     font-size: 24px;
     line-height: 1.4;

@@ -1,7 +1,7 @@
 ---
 title: 'Rules'
 date: 2018-11-28T15:15:26+10:00
-icon: 'ultimate/service-icon-3.png'
+icon: 'ultimate/rules-icon.png'
 featured: true
 draft: false
 heroHeading: 'The Rules of Ultimate'
@@ -11,7 +11,8 @@ heroBackground: 'ultimate/service1.jpg'
 
 Ultimate is a non-contact, self-refereed team sport played with a flying disc (or Frisbee™). Two teams of seven players compete on a rectangular pitch. At each end of the pitch there is an end zone. Each team defends one endzone. They score a goal if one of their players catches the disc in the opposite end zone. The player with the disc is called the thrower and may not run with the disc. Instead they move the disc by passing to team-mates in any direction. The defensive team gets possession of the disc if an offensive team’s throw is not caught by a player of the same team. Then the defensive team becomes the offensive team and can try to score in the opposite end zone. 
 
-## The Basic Rules
+<h3>THE BASIC RULES</h3>
+
 **The Pitch:** Rectangular in shape with end zones at each end. A regulation pitch is 100m long and 37m wide, with end zones 18m deep.
 
 **The Pull:** Each point begins with both teams lining up on the front of their respective end zone line. The defense throws ("pulls") the disc to the offense.
@@ -32,6 +33,10 @@ Ultimate is a non-contact, self-refereed team sport played with a flying disc (o
 
 **Spirit of the Game:** Ultimate stresses sportsmanship and fair play. Competitive play is encouraged, but never at the expense of respect between players, adherence to the rules, and the basic joy of play.
 
-## Resources
+<h3>RESOURCES</h3>
 
-
+- [WFDF Outdoor Rules](https://rules.wfdf.org/resources)
+- [UKU Indoor Rules](https://www.ukultimate.com/system/files/UKU\%20Rules\%20of\%20Indoor\%20Ultimate\%202017.pdf)
+- [WFDF Accreditation](https://rules.wfdf.org/accreditation)
+- [WFDF Decision Trees](https://rules.wfdf.org/documents/wfdf-rules-of-ultimate-2021-2024-decision-diagrams)
+- [WFDF Hand Signals](https://rules.wfdf.org/documents/wfdf-rules-of-ultimate-2021-2024-hand-signals)

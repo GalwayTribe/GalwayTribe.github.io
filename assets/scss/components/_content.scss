@@ -12,14 +12,14 @@
     text-decoration: underline;
   }
   p {
-    color: rgb(78, 78, 78);
+    color: rgb(255, 255, 255);
     font-family: $font-family-base;
   }
   h1 {
     font-family: $font-family-heading;
     line-height: 1.2;
     font-weight: $font-weight-light;
-    color: #333333;
+    color: #ffffff;
     @include media-breakpoint-up(md) {
       line-height: 1.2;
       font-weight: $font-weight-light;
@@ -29,7 +29,7 @@
     font-family: $font-family-heading;
     line-height: 1.4;
     font-weight: 400;
-    color: #333333;
+    color: #ffffff;
     @include media-breakpoint-up(md) {
       line-height: 1.4;
     }

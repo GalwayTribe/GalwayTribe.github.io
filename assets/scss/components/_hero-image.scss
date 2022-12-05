@@ -69,3 +69,22 @@
 html {
  scroll-behavior: smooth;
 }
+
+
+.image {
+  font-size: 0;
+  text-align: center;
+  width: 200px;  /* Container's dimensions */
+  height: 150px;
+}
+img {
+  display: inline-block;
+  vertical-align: middle;
+  max-height: 100%;
+  max-width: 100%;
+}
+.trick {
+  display: inline-block;
+  vertical-align: middle;
+  height: 150px;
+}
