@@ -4,6 +4,7 @@ date: 2018-11-28T15:15:26+10:00
 icon: 'ultimate/rules-icon.png'
 featured: true
 draft: false
+weight: 2
 heroHeading: 'The Rules of Ultimate'
 heroSubHeading: 'A brief overview of the rules of ultimate and links to official resources.'
 heroBackground: 'ultimate/service1.jpg'

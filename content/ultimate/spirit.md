@@ -4,9 +4,10 @@ date: 2018-11-28T15:14:54+10:00
 icon: 'ultimate/spirit-icon.png'
 featured: true
 draft: false
+weight: 3
 heroHeading: 'Spirit of the Game'
 heroSubHeading: 'Ultimate should be safe, fair and joyful.'
-heroBackground: ''
+heroBackground: 'ultimate/tribespirit.jpg'
 ---
 
 Spirit of the Game is one of the core elements in flying disc sports. It is similar to fair play and sportsmanship, but there is a much higher emphasis put on it in Ultimate and it is one of the defining aspects of the sport. Spirit of the Game places the responsibility of fair play solely on the players by requiring each player to know the rules and make their own calls, without the help of a referee. This reinforces mutual respect and trust between opponents; communication and conflict resolution skills; and self confidence – both on and off the pitch.

@@ -13,14 +13,14 @@ images: ['history/womensivs.jpg',
 
 Galway has a proud of history of hosting tournaments, and tournament parties. In 2023 the inaugural [Tribal Gathering](www.tribalgatheringgalway.com) will take place, bringing high level mixed-teams from around the globe to the West of Ireland for a weekend of high-level play and higher-level partying.
 
-## Galway Open
+<h3>GALWAY OPEN</h3>
 Galway Open was the brainchild of former NUIG captain Liam Grant. The event took place in 2010 and 2011 in Dangan Sportsground on the University fo Galway Campus. The tournament focused on exposing local players to top level Irish ultimate, while also providing a division for newer players to compete and most importantly 2 huge parties.
 
-## Annual Charity Christmas Hat
+<h3>ANNUAL CHARITY CHRISTMAS HAT</h3>
 Galway's Annual Charity Christmas Hat Tournament was established by Eoghan Staunton in 2013. This annual tournament has raised thousands of euros over the years for charities such as the Simon Community, the Movement of Asylum Seekers in Ireland and Cope. In recent years the responsibility for the running of the Christmas tournament has been taken on by the Tribe committee. 
 
-## Smugairle Róin
+<h3>SMUGAIRLE RÓIN</h3>
 Smugairle Róin is Tribe's annual indoor beginner tournament. It focuses on providing a tournament for non-college beginners in Ireland to compete. In recent years COVID-19 has led to the cancellation of this tournament but hopefully it will return in 2023.
 
-## Nationals and Intervarsities
+<h3>NATIONALS AND INTERVARSITIES</h3>
 Galway has hosted Irish Nationals and Irish Intervarsity tournaments over the years. Most recently Galway hosted Indoor Nationals in 2019, Women's Indoors IVs in 2020, Mixed Indoors IVs in 2018 and Open Indoors IVs in 2016.
