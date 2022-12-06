@@ -22,9 +22,9 @@ $secondary: #14A098;
 
 // Links
 $link-color: $primary;
-$link-decoration: none;
+$link-decoration: none !default;
 $link-hover-color: lighten($primary, 10%);
-$link-hover-decoration: bold;
+$link-hover-decoration: none;
 
 // Fonts
 $font-family-base: 'Open Sans', 'Helvetica Neue', Arial, sans-serif,

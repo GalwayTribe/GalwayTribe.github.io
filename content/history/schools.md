@@ -5,9 +5,9 @@ draft: false
 weight: 5
 heroHeading: 'Schools Ultimate in Galway'
 heroSubHeading: "Galway's youth ultimate scene."
-heroBackground: 'history/tribeshane.jpg'
+heroBackground: 'history/calasanctius.jpg'
 thumbnail: 'history/tribeshane.jpg'
-images: ['history/tribeshane.jpg']
+images: ['history/calasanctius.jpg','history/tribeshane.jpg']
 ---
 
 Galway ultimate community members have introduced ultimate to a number of city schools over the years including Coláiste Éinde, Coáiste Iognáid, and Calasanctius College.

@@ -8,7 +8,7 @@ heroSubHeading: "Events hosted by the Galway ultimate Community."
 heroBackground: 'history/womensivs.jpg'
 thumbnail: 'history/tglogo.png'
 images: ['history/womensivs.jpg', 
-'history/tglogo.png','history/galwayopenmvp.jpg','history/galwayopenmvp2.jpg','history/uggalwayopen.jpg']
+'history/tglogo.png','history/galwayopenmvp.jpg','history/galwayopenmvp2.jpg','history/uggalwayopen.jpg',history/christmas.jpg,history/tribexmas22.jpg]
 ---
 
 Galway has a proud of history of hosting tournaments, and tournament parties. In 2023 the inaugural [Tribal Gathering](www.tribalgatheringgalway.com) will take place, bringing high level mixed-teams from around the globe to the West of Ireland for a weekend of high-level play and higher-level partying.

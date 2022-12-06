@@ -12,6 +12,10 @@
     }
   }
   .content {
+    a:link, a:visited {color: $primary;
+      text-decoration: none;
+      font-weight: bold;}
+    a:hover, a:active {color: lighten($primary, 10%)}
     > p {
       color: rgb(255, 255, 255);
       &:first-of-type {

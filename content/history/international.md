@@ -7,7 +7,7 @@ heroHeading: 'Representing Ireland'
 heroSubHeading: "Galway-based players representing their country."
 heroBackground: 'history/eucwomen.jpg'
 thumbnail: 'history/zoemedal.jpg'
-images: ['history/eucwomen.jpg','history/zoemedal.jpg','history/barryireland.jpg', 'history/liamireland.jpg','history/garyireland.jpg','history/doroireland.jpg','history/ronanireland.jpg','history/barryireland2.jpg','history/liamlayout.jpg','history/eoghandubai.jpg', 'history/niallemma.jpg','history/barrymedal.jpg','history/eoghanecbu.jpg','history/stevedubai.jpg','history/liamireland.jpg','history/liammedal.jpg','history/niallireland.jpg','history/doroireland2.jpg','history/aoifeireland.jpg']
+images: ['history/eucwomen.jpg','history/zoemedal.jpg','history/barryireland.jpg','history/euic.jpg', 'history/liamireland.jpg','history/garyireland.jpg','history/doroireland.jpg','history/ronanireland.jpg','history/barryireland2.jpg','history/liamlayout.jpg','history/eoghandubai.jpg', 'history/niallemma.jpg','history/barrymedal.jpg','history/eoghanecbu.jpg','history/stevedubai.jpg','history/liamireland.jpg','history/liammedal.jpg','history/niallireland.jpg','history/doroireland2.jpg','history/aoifeireland.jpg']
 ---
 
 The Galway Ultimate community is proud to have been represented by a large number of Galway-based players on various Irish national teams over the years. Male and female-matching Galway-based players have played at Junior, U23/U24 and Senior levels.

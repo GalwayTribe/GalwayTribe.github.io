@@ -144,7 +144,7 @@ a {
   -webkit-text-decoration-skip: objects; }
   a:hover {
     color: #d9528a;
-    text-decoration: bold; }
+    text-decoration: none; }
 
 a:not([href]):not([tabindex]) {
   color: inherit;
@@ -6127,6 +6127,14 @@ img {
 .bg-secondary {
   background-color: #14A098; }
 
+.page-services-single .content a:link, .page-services-single .content a:visited {
+  color: #14A098;
+  text-decoration: none;
+  font-weight: bold; }
+
+.page-services-single .content a:hover, .page-services-single .content a:active {
+  color: #1acdc3; }
+
 .page-services-single .content > p {
   color: white; }
   .page-services-single .content > p:first-of-type {
@@ -6190,6 +6198,14 @@ img {
 .page-work-single .work-image img {
   width: 100%;
   height: auto; }
+
+.page-work-single .content a:link, .page-work-single .content a:visited {
+  color: #cb2d6f;
+  text-decoration: none;
+  font-weight: bold; }
+
+.page-work-single .content a:hover, .page-work-single .content a:active {
+  color: #d9528a; }
 
 .page-work-single .content > p {
   color: white; }
