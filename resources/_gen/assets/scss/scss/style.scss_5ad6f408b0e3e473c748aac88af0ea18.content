@@ -6127,6 +6127,25 @@ img {
 .bg-secondary {
   background-color: #14A098; }
 
+.about_container {
+  display: flex;
+  align-items: center;
+  gap: 15px; }
+
+.about_container_reverse {
+  display: flex;
+  align-items: center;
+  flex-direction: row-reverse;
+  gap: 15px; }
+
+@media (max-width: 800px) {
+  .about_container {
+    flex-direction: column; } }
+
+@media (max-width: 800px) {
+  .about_container_reverse {
+    flex-direction: column; } }
+
 .page-services-single .content a:link, .page-services-single .content a:visited {
   color: #14A098;
   text-decoration: none;

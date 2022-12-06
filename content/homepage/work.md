@@ -1,7 +1,9 @@
 ---
 title: 'Join Now!'
 weight: 1
-background: 'images/hookersplash.png'
+background: 'images/tile.png'
+image: 'about/hooker.png'
+align: 'right'
 button: 'Find out more and sign up'
 buttonLink: 'contact'
 ---

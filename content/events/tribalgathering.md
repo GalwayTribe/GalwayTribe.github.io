@@ -16,3 +16,10 @@ In August 2023 the Galway Ultimate community, led by members of Tribe, will host
 Registration is still open. Come and visit one of the most friendly and rapidly developing Ultimate scenes in the world. Home to European champions both at national and club level, Irish Ultimate is in rude health on the field and remains as welcoming as ever off the field. 
 
 The west coast of our country is famous for breathtaking scenery, the warmest of welcomes, tasty local food and an exciting nightlife. You’d be mad to miss  the very first edition of what we hope will become one of the best Mixed Ultimate tournaments on the circuit! 
+
+The tournament logo combines Galway symbols such as the Claddagh ring and Galway hookers with elements of the heraldry of the famous 14 Tribes of Galway. 
+
+
+<div class="card">
+<img src="/events/TribalGathering2023_LogoExplainerFinal_TransparentBackground.png" id="responsive-image"> 
+</div>
