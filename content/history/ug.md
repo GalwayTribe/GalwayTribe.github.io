@@ -7,7 +7,7 @@ heroHeading: 'University of Galway'
 heroSubHeading: "Galway's first ultimate team was the university team."
 heroBackground: 'history/ugdisc.jpg'
 thumbnail: 'history/ugdisc.jpg'
-images: ['history/ugroar.jpg', 'history/ugbreen.jpg','history/ugcircle.jpg','history/ugdisc.jpg','history/uggalwayopen.jpg','history/ugmedals.jpg','history/ugmedals2.jpg','history/ugspirit.jpg','history/ugteam.jpg','history/ugteamindoor.jpg','history/ugteaparty.jpg','history/ugtraining.jpg','history/ugwomen.jpg','history/ugwomenwinners.png','history/ugybn.jpg','history/ugybn2.jpg','history/ljybn.jpg','history/ugsun.jpg']
+images: ['history/ugroar.jpg','history/ugearly.jpg', 'history/ugbreen.jpg','history/ugcircle.jpg','history/ugdisc.jpg','history/uggalwayopen.jpg','history/ugmedals.jpg','history/ugmedals2.jpg','history/ugspirit.jpg','history/ugteam.jpg','history/ugteamindoor.jpg','history/ugteaparty.jpg','history/ugtraining.jpg','history/ugwomen.jpg','history/ugwomenwinners.png','history/ugybn.jpg','history/ugybn2.jpg','history/ljybn.jpg','history/ugsun.jpg']
 ---
 
 The first ultimate team in Galway was the National University of Ireland, Galway team. Back in 2005 Thomas O’Rourke founded the NUIG Panteras, named after Las Panteras de Xalapa, an Ultimate team from Mexico from whom Thomas learned the sport. 
