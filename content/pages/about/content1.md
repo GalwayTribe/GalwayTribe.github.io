@@ -7,4 +7,10 @@ image: '/images/CitySticker.png'
 align: right
 ---
 
-Tribe was established in 2016 and is now the premier club team in Galway. Tribe made its debut in the Open Division at Yes But Nau and the Women's Division at Munster Munch that year. Tribe's first outing in the Mixed Division was at Windmill 2017. Since those humble beginnings the club has gone on to be one of the most active clubs in Irish Ultimate, sending teams to indoor and outdoor events across the country in all three divisions. The growth of Ultimate in the west is down to the hard work of many and the building and development of a tight knit and supportive community. 
+Tribe was established in the summer of 2016 to represent Galway on the club ultimate scene. Tribe made its debut in the Open Division at Yes But Nau and the Women's Division at Munster Munch that year. The club's first outing in the Mixed Division was at Windmill 2017.
+
+Since then the club and its distinctive jellyfish kit has become a fixture at tournaments all across the country in all three divisions, outdoors, indoors and on the beach. 
+
+Tribe is one of the most active clubs in Irish Ultimate, with around 60 active members and regular trainings, pickup and non-ultimate events. 
+
+Tribe prides itself on the tight knit, supportive and inclusive community it has built. 

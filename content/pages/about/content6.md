@@ -5,7 +5,7 @@ date: 2018-12-06T09:29:16+10:00
 background: 'about/tile.png'
 image: '/images/CitySticker.png'
 align: left
-button: "Learn More About Galway's Ultimate History"
+button: "Learn More About Galway's History"
 buttonLink: 'history'
 ---
 
