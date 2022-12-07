@@ -14,10 +14,11 @@ Spirit of the Game is one of the core elements in flying disc sports. It is simi
 
 Spirit of the Game is summarised in this preamble to the WFDF rules of play as follows: *All players are responsible for administering and adhering to the rules. Ultimate relies upon a Spirit of the Game that places the responsibility for fair play on every player. It is trusted that no player will intentionally break the rules; thus there are no harsh penalties for breaches, but rather a method for resuming play in a manner which simulates what would most likely have occurred had there been no breach. Highly competitive play is encouraged, but should never sacrifice the mutual respect between players, adherence to the agreed-upon rules of the game, or the basic joy of play.*
 
+<br>
 <div class="card">
 <img class="figure-img" src="/ultimate/spirit-pillars.png" id="responsive-image"> 
 </div>
-
+<br>
 
 
 <h3>5 PILLARS</h3>
