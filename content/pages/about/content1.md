@@ -13,6 +13,6 @@ Since then the club and its distinctive jellyfish kit has become a fixture at to
 
 Tribe is one of the most active clubs in Irish Ultimate, with around 60 active members and regular trainings, pickup and non-ultimate events. 
 
-Outdoor trainings are usually held in the University of Galway's Dangan Sportsgrounds or in Laurel Park. Indoor trainings are usually held in the Knocknacarra Community Centre or the Salerno Sportsdome. You can find a map of these venues and other Tribe venues on our [contact](/contact) page.
+Outdoor trainings are usually held in the University of Galway's Dangan Sportsgrounds or in Laurel Park. Indoor trainings are usually held in the Knocknacarra Community Centre or the Salerno Sportsdome. You can find an interactive map of these venues and other Tribe venues on our [contact](/contact) page.
 
-Tribe prides itself on the tight knit, supportive and inclusive community it has built. 
+Tribe prides itself on the tight knit, supportive and inclusive community it has built and welcomes anyone to join.
