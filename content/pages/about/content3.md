@@ -3,8 +3,13 @@ title: 'The Jellyfish'
 date: 2018-12-06T09:29:16+10:00
 weight: 3
 background: ''
-image: '/about/hooker.png'
+image: '/about/jelly.png'
 align: right
 ---
 
-Tribe was established in 2016 and is now the premier club team in Galway. Tribe made its debut in the Open Division at Yes But Nau and the Women's Division at Munster Munch that year. Tribe's first outing in the Mixed Division was at Windmill 2017. Since those humble beginnings the club has gone on to be one of the most active clubs in Irish Ultimate, sending teams to indoor and outdoor events across the country in all three divisions. The growth of Ultimate in the west is down to the hard work of many and the building and development of a tight knit and supportive community. 
+Tribe players love to trade their kit and our light kit, adorned by Tribe's colourful jellyfish logo can be seen being worn by players all over the wold who have traded with us.
+
+But why choose a jellyfish to represent Galway? 
+
+Ireland is not known for its fearsome wild animals. Many of the animals that one might choose; the wolf, the giant Irish deer, the brown bear or the golden eagle have all unfortunately become extinct here.  However, those of us who have spent years swimming in the cold Atlantic waters of the Galway coast can attest to the persistence, endurance, and stings of our native jellyfish. Barrel, Blue, Moon, Compass and Lion's Mane jellyfish all call our waters home while the Portuguese Man O'War has also been known to visit.
+

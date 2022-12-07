@@ -3,7 +3,7 @@ title: "Building on Galway's Ultimate History"
 weight: 6
 date: 2018-12-06T09:29:16+10:00
 background: 'about/tile.png'
-image: '/images/CitySticker.png'
+image: '/about/line-jelly.png'
 align: left
 button: "Learn More About Galway's History"
 buttonLink: 'history'
