@@ -16,11 +16,11 @@ If you are not comfortable contributing directly simply ping Eoghan on Slack and
 ## Basics
 
 **Deployment**
-- The website is deployed from the __docs__ directory ⚠️ **DO NOT DIRECTLY EDIT THESE FILES**.
+- The website is deployed from the 'docs' directory ⚠️ **DO NOT DIRECTLY EDIT THESE FILES**.
 
 **Content Management**
-- The website's content is all editable via markdown files in the __content__ directory.
-- Associated images should be added to the relevant folder in the __static__ directory.
+- The website's content is all editable via markdown files in the 'content' directory.
+- Associated images should be added to the relevant folder in the 'static' directory.
 
 **Menu**
 - Responsive menu managed in `config.toml`
@@ -28,10 +28,10 @@ If you are not comfortable contributing directly simply ping Eoghan on Slack and
 - You can edit and add main menu links in the `config.toml` under `[[menu.main]]`
 
 **Layout**
-- The layout of the website can be edited by editing the files in the layouts directory.
+- The layout of the website can be edited by editing the files in the 'layouts' directory.
 
 **Style - SCSS**
-- The style fo the website is built from the scss files located in the assets directory.
+- The style fo the website is built from the scss files located in the 'assets' directory.
 
 
 ## Using Hugo to Work on the Site
@@ -42,7 +42,7 @@ To work with this website you will first need to have Hugo installed. Please fol
 
 ⚠️ **Note:** Check your Hugo version - **Hugo Extended** is required!
 
-The underlying theme uses [Hugo Pipes](https://gohugo.io/hugo-pipes/scss-sass/) to compile SCSS and minify assets which means if you not using the Hugo extended version this theme will not work. To check your version of Hugo, run  `hugo version`. Make sure you see __+extended__ after the version number, for example __hugo v0.106.0-e08ce30fe4779e7d8a8395d7021314b915648cb4+extended windows/amd64 BuildDate=2022-11-17T18:33:40Z VendorInfo=gohugoio__ You do not need to use version v0.106.0 specifically, it just needs to have the __+extended__ part.
+The underlying theme uses [Hugo Pipes](https://gohugo.io/hugo-pipes/scss-sass/) to compile SCSS and minify assets which means if you not using the Hugo extended version this theme will not work. To check your version of Hugo, run  `hugo version`. Make sure you see 'extended' after the version number, for example 'hugo v0.106.0-e08ce30fe4779e7d8a8395d7021314b915648cb4+extended windows/amd64 BuildDate=2022-11-17T18:33:40Z VendorInfo=gohugoio' You do not need to use version v0.106.0 specifically, it just needs to have the 'extended' part.
 
 **2. Read the Hugo documentation**
 
@@ -61,7 +61,7 @@ Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your b
 
 **4. Building the Site**
 
-To build the site and publish to the __docs__ directory
+To build the site and publish to the 'docs' directory
 
 ```
 hugo -D
@@ -71,7 +71,13 @@ hugo -D
 
 Add, commit and push your changes to your fork. 
 
-When your changes are ready for review, create a pull request. Ping Eoghan on Slack if you want him to see it quickly.
+```
+git add -A
+git commit -m "<description of my change>"
+git push
+```
+
+When your changes are ready for review, create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork). Ping Eoghan on Slack if you want him to see it quickly.
 
 
 
