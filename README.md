@@ -8,7 +8,7 @@ If you are not comfortable contributing directly simply ping Eoghan on Slack and
 
 ### Directly making changes to the site
 - [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repository.
-- [Clone]
+- [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your local machine.
 - Make changes to your fork of the repo and test your changes locally.
 - [Create a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
   - Make sure to add a description of your pull request, especially if any changes have been made to the html or css files.
@@ -16,7 +16,7 @@ If you are not comfortable contributing directly simply ping Eoghan on Slack and
 ## Basics
 
 **Deployment**
-- The website is deployed from the __docs__ directory **DO NOT DIRECTLY EDIT THESE FILES**.
+- The website is deployed from the __docs__ directory ⚠️ **DO NOT DIRECTLY EDIT THESE FILES**.
 
 **Content Management**
 - The website's content is all editable via markdown files in the __content__ directory.
