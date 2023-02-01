@@ -28,7 +28,7 @@ There is a wealth of fantastic resources available online related to ultimate. H
     Rules](https://rules.wfdf.org/resources)**
 
 -   **[UKU Indoor
-    Rules](https://www.ukultimate.com/system/files/UKU%20Rules%20of%20Indoor%20Ultimate%202017.pdf)**
+    Rules](https://static1.squarespace.com/static/615836b4fa9ee8475e5de4bf/t/61e57cad1ca8030a48b00872/1642429615350/UKU+Rules+of+Indoor+Ultimate+2021-24.docx.pdf)**
 
 -   **[WFDF
     Accreditation](https://rules.wfdf.org/accreditation)**
